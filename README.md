@@ -1,7 +1,7 @@
 # Project 1: Beginners Sales Dashboard (Power BI)
 
 ## 🎯 Doel van het project
-Het doel van dit project is het transformeren van ruwe verkoopdata naar een interactief en visueel dashboard. Hiermee kan een bedrijf in één oogopslag zien wat de totale omzet is, welke productcategorieën het best presteren en welke individuele producten de meeste omzet genereren.
+Het doel van dit project is het transformeren van verkoopdata naar een interactief en visueel dashboard. Hiermee kan een bedrijf in één oogopslag zien wat de totale omzet is, welke productcategorieën het best presteren en welke individuele producten de meeste omzet genereren.
 
 ## 📊 Het Dashboard
 ![Dashboard Screenshot](dashboard_screenshot.png) 
