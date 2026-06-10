@@ -11,7 +11,7 @@ Het doel van dit project is het transformeren van verkoopdata naar een interacti
 * **Microsoft Excel** (Data opslag & Bronbestand)
 
 ## 📈 Belangrijkste Inzichten uit de Data
-1. **Totale Omzet**: De totale gegenereerde omzet over de gemeten periode in januari 2026 bedraagt **€ 5.750,-**.
+1. **Totale Omzet**: De totale gegenereerde omzet over de gemeten periode in januari 2026 bedraagt **€ 5.650,-**.
 2. **Top Categorie**: De categorie **Elektronica** is veruit de grootste omzetdrager in vergelijking met Meubels.
 3. **Best Verkopende Product**: De **Laptop** zorgt voor de hoogste individuele omzetpieken (€ 3.600,- van de totale omzet).
 
